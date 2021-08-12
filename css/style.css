@@ -1,0 +1,37 @@
+.panda-bg-info{
+    background-color: 
+    #fceae8;
+}
+.categories img{
+    width: 100px;
+}
+.categories h1{
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    color: white;
+}
+.panda-headerItem-price{
+    color: #FF136F;
+    font-size: 2.5rem;
+}
+.panda-watch{
+    background-color: #ff5498;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.panda-bag{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.panda-shoes{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
